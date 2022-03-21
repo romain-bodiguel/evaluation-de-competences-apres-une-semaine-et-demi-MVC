@@ -1,0 +1,1 @@
+<h1>Page introuvable, celle-ci sera créée dans un autre exercice</h1>
